@@ -1,3 +1,6 @@
-# js_projects
+Vanilla Javascript Projects
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/dom-project-chaiaurcode-vjpcyd)
+#Level-1
+
+1.) Background Color Changer
+2.) BMI Calculator
